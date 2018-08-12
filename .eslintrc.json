@@ -1,6 +1,7 @@
 {
     "extends": "airbnb",
     "rules": {
-        "no-unused-vars": "off"
+        "no-unused-vars": "off",
+        "no-undef": "off"
     }
 }
